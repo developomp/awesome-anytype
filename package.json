@@ -1,0 +1,16 @@
+{
+  "name": "awesome-anytype",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "prepare": "husky install",
+    "lint": "prettier . --check",
+    "commitlint": "commitlint --edit"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.7",
+    "@commitlint/config-conventional": "^17.6.7",
+    "husky": "^8.0.3",
+    "prettier": "3.0.1"
+  }
+}
