@@ -1,0 +1,5 @@
+# https://github.com/github-linguist/linguist/blob/master/docs/overrides.md
+
+.husky/** linguist-vendored
+*.js linguist-vendored
+*.md linguist-vendored=false
