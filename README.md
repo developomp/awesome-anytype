@@ -1,6 +1,3 @@
-# Awesome AnyType
+# Awesome AnyType <!-- omit from toc -->
 
-## Table Of Contents
-
-- [Awesome AnyType](#awesome-anytype)
-  - [Table Of Contents](#table-of-contents)
+## Table Of Contents <!-- omit from toc -->
