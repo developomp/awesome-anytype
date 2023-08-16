@@ -18,7 +18,7 @@
 ### Documentations
 
 - [tech-docs](https://github.com/anyproto/tech-docs) - Tech documentation for Any components
-- [docs](https://github.com/anyproto/docs)- The open-source repo for the content behind Anytype Docs
+- [docs](https://github.com/anyproto/docs) - The open-source repo for the content behind Anytype Docs
 
 ## Self Hosting
 
