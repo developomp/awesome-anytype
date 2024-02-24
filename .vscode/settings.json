@@ -1,4 +1,13 @@
 {
   "editor.formatOnSave": true,
-  "cSpell.words": ["Anytype", "commitlint", "developomp"]
+  "cSpell.words": ["Anytype", "commitlint", "developomp"],
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
