@@ -1,4 +1,4 @@
-<img align="right" src=".github/icon.png" alt="anytype logo" />
+![anytype logo](.github/icon.png)
 
 # Awesome AnyType <!-- omit from toc -->
 
