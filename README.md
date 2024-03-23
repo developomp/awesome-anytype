@@ -1,5 +1,8 @@
 ![anytype logo](.github/icon.png)
 
+[![awesome](https://img.shields.io/badge/awesomme-FC60A8?style=for-the-badge&logo=awesomelists&logoColor=white)](https://awesome.re)
+[![license](https://img.shields.io/github/license/developomp/awesome-anytype?style=for-the-badge&color=yellow)](./LICENSE)
+
 # Awesome AnyType <!-- omit from toc -->
 
 ## Table Of Contents <!-- omit from toc -->
