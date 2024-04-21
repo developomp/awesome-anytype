@@ -33,6 +33,7 @@
 
 ## Self Hosting
 
+- [anyproto/any-sync-dockercompose](https://github.com/anyproto/any-sync-dockercompose) - docker-compose for testing any-sync (official)
 - [SamBouwer/any-docker](https://github.com/SamBouwer/any-docker) - Dockerized all-in-one instance of an anytype node
 - [clems4ever/anytype-backup-node](https://github.com/clems4ever/anytype-backup-node) - A dockerized self-hosted backup node for anytype
 
