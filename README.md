@@ -7,12 +7,17 @@
 
 ## Table Of Contents <!-- omit from toc -->
 
+- [Honorable Mention](#honorable-mention)
 - [Github Projects](#github-projects)
 - [Official Projects](#official-projects)
   - [Clients](#clients)
   - [Documentations](#documentations)
 - [Self Hosting](#self-hosting)
 - [Linux Packages](#linux-packages)
+
+## Honorable Mention
+
+- [amjarmed/Awesome-AnyType-Resources](https://github.com/amjarmed/Awesome-AnyType-Resources)
 
 ## Github Projects
 
